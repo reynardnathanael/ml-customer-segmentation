@@ -1,2 +1,2 @@
-# ml-customer-segmentation
-Clustering and Classification Machine Learning
+# Machine Learning: Customer Segmentation
+This is my first machine learning project as a requirement for the Machine Learning certification from Dicoding Indonesia. I used the KPrototypes model for clustering (unsupervised learning) and K-Nearest Neighbors (KNN), Support Vector Machine (SVM), and Naive Bayes for classification (supervised learning). I successfully segmented customers in a "Customer Dataset," which consists of 2,000 rows of data, with a silhouette score above 0.6 and accuracy, precision, recall, and F1-score values above 0.9.
